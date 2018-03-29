@@ -1,0 +1,18 @@
+Amazon review sentiment analysis:
+https://www.kaggle.com/bittlingmayer/amazonreviews
+This dataset is an extract from the Amazon Reviews Kaggle competition. The goal is to perform
+sentiment analysis to determine whether a review is positive or negative. We have provided a
+CSV file on D2L which contains the binary label (positive/negative) and the corresponding text
+for the 400,000 reviews.
+
+The CSV file can be read using the command:
+Import["reviews.csv", "Table", FieldSeparators -> "|"]
+
+
+Software tools
+Mathematica installation:
+https://itservices.usc.edu/mathematica/
+Wolfram Language:
+https://wolframlanguage.org
+Mathematica tutorial:
+http://www.math.mtu.edu/~msgocken/pdebook2/mathtut2.pdf
